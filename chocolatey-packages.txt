@@ -1,47 +1,40 @@
 
 
 # General  Tools
-git
-visualstudiocode
-notepadplusplus
-sysinternals
-vlc
-7zip
-
+keepassxc # Password Manager
+git # Version Management
+visualstudiocode # Code editor  // SPYWARE
+notepadplusplus # Small Text Editor
+sysinternals 
+vlc # Media Player
+7zip # Archives
+sharex # Screenshot
 # Network tools
-winscp
-mremoteng
-curl
-wget
-putty
+winscp # FTP
+mremoteng # SSH / RDP / VNC
+curl # Requests
+wget # DOwnload files
 
-# JavaScript / Node.js
-nodejs
-yarn
-typescript
-eslint
-prettier
+
 
 # Python
-python
-pip
-jupyter
-virtualenvwrapper-win
+python3
+
 
 
 # Security and Pentesting Tools
-nmap
-wireshark
+nmap # PortScanning
+wireshark # NetworkAnalysis
 
 # Communication
-pidgin-otr
-pidgin
-teamspeak
+pidgin-otr # XMPP Encryption
+pidgin # XMPP / IRC Client
+teamspeak # VoiceChat // SEMI-SPYWARE
 
 # Privacy
-perfect-privacy-vpn
-mullvadvpn
-keepassxc
+perfect-privacy-vpn # PerfectPrivacyVPN
+mullvad-app # MullvadVPN
+
 
 # Entertainment
-spotify
+spotify # SPYWARE
