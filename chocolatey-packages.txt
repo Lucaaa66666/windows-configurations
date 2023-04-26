@@ -2,8 +2,9 @@
 
 # General  Tools
 keepassxc # Password Manager
+thunderbird # IMAP / SMTP
 git # Version Management
-visualstudiocode # Code editor  // SPYWARE
+vscode # (MICROSOFT) Code editor  // SPYWARE
 notepadplusplus # Small Text Editor
 sysinternals # Troubleshoot windows
 vlc # Media Player
@@ -14,7 +15,7 @@ winscp # FTP
 mremoteng # SSH / RDP / VNC
 curl # Requests
 wget # DOwnload files
-
+chromium # Browser Nr. 1 // TODO: Wait for mullvad package to finally drop
 
 
 # Python
