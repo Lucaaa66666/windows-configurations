@@ -1,0 +1,47 @@
+
+
+# General  Tools
+git
+visualstudiocode
+notepadplusplus
+sysinternals
+vlc
+7zip
+
+# Network tools
+winscp
+mremoteng
+curl
+wget
+putty
+
+# JavaScript / Node.js
+nodejs
+yarn
+typescript
+eslint
+prettier
+
+# Python
+python
+pip
+jupyter
+virtualenvwrapper-win
+
+
+# Security and Pentesting Tools
+nmap
+wireshark
+
+# Communication
+pidgin-otr
+pidgin
+teamspeak
+
+# Privacy
+perfect-privacy-vpn
+mullvadvpn
+keepassxc
+
+# Entertainment
+spotify
