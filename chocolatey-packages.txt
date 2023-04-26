@@ -33,7 +33,9 @@ pidgin-otr # XMPP Encryption
 pidgin # XMPP / IRC Client
 teamspeak # VoiceChat // SEMI-SPYWARE
 
-# Privacy
+
+# Privacy / Anonymity 
+gpg4win # PGP Encryption
 perfect-privacy-vpn # PerfectPrivacyVPN
 mullvad-app # MullvadVPN
 
