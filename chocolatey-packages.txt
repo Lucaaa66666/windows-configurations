@@ -5,7 +5,7 @@ keepassxc # Password Manager
 git # Version Management
 visualstudiocode # Code editor  // SPYWARE
 notepadplusplus # Small Text Editor
-sysinternals 
+sysinternals # Troubleshoot windows
 vlc # Media Player
 7zip # Archives
 sharex # Screenshot
