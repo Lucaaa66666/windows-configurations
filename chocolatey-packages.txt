@@ -19,6 +19,8 @@ chromium # Browser Nr. 1 // TODO: Wait for mullvad package to finally drop
 openvpn # OpenVPN 
 virtualbox # Virtual Machines
 bleachbit # Storage Optimization / File erasure
+obs-studio # Screen recorder
+
 # Python
 python3
 
