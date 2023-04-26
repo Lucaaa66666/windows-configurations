@@ -1,6 +1,7 @@
 
 
 # General  Tools
+rufus # ISO Writer
 keepassxc # Password Manager
 thunderbird # IMAP / SMTP
 git # Version Management
@@ -27,6 +28,8 @@ python3
 
 
 # Security and Pentesting Tools
+charles # HTTP-Debugger
+burp-suite-free-edition # HTTP-Debugging browser // TODO: Remove?
 nmap # PortScanning
 wireshark # NetworkAnalysis
 
