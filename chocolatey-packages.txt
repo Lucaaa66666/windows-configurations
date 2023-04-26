@@ -17,6 +17,7 @@ curl # Requests
 wget # DOwnload files
 chromium # Browser Nr. 1 // TODO: Wait for mullvad package to finally drop
 openvpn # OpenVPN 
+virtualbox # Virtual Machines
 
 # Python
 python3
